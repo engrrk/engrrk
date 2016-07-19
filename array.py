@@ -1,4 +1,3 @@
+numbers= [value for value in range(1,10) if value% 2 != 0]
 
-for numbers in range(1,10):
-    if numbers % 2 != 0:
-        print(numbers)
+print(numbers)
