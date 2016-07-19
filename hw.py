@@ -1,2 +1,2 @@
-name='ada lavelace'
-print(name.title())
+name='PYTHON!!!'
+print(name.())
