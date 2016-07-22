@@ -1,4 +1,4 @@
-s = "hello world!123"
+s = "exp. !123456789"
 l=0
 d=0
 for char in s:
@@ -6,4 +6,4 @@ for char in s:
         l = l+1
     elif char.isdigit():
         d=d+1
-print("letters :" + str(l) + "\n digits " + str(d)+".")
+print("letters :" + str(l) +"."+ "\n digits " + str(d)+".")
